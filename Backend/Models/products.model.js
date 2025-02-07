@@ -47,5 +47,5 @@
 
  },{timestamps:true})
 
- export const Product = mongoose.model("Product",productSchema)   //Can view and add Products for assigned vendors. 
+ export const Product = mongoose.model("Product",productSchema)   
  
