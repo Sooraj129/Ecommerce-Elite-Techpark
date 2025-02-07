@@ -185,7 +185,3 @@ export const searchProducts = async (req, res) => {
         })
     }
 }    
-//Products should have the same details as mentioned for admin-created Products. 
-// Can view and add Products for assigned vendors. 
-//    - Products should have the same details as mentioned for admin-created Products.  - Can add and view their own Products. 
-  // - Products should have the same details as mentioned for admin-created Products. 
